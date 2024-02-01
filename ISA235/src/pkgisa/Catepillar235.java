@@ -9,4 +9,8 @@ public class Catepillar235 {
 		this.cabbages=cabbages;
 	}
 
+	int get_moves()
+	{
+		return moves;
+	}
 }
